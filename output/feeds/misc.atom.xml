@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Resume Site - misc</title><link href="https://zeus99x.github.io/" rel="alternate"></link><link href="https://zeus99x.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://zeus99x.github.io/</id><updated>2025-02-27T00:00:00-06:00</updated><entry><title>Saman HM's Resume</title><link href="https://zeus99x.github.io/resume.html" rel="alternate"></link><published>2025-02-27T00:00:00-06:00</published><updated>2025-02-27T00:00:00-06:00</updated><author><name>Saman HM</name></author><id>tag:zeus99x.github.io,2025-02-27:/resume.html</id><content type="html">&lt;h1&gt;Sman HM&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; sam99x.g@gmail.com | &lt;strong&gt;Phone:&lt;/strong&gt; 0&lt;/p&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;University of Manitoba&lt;/strong&gt;, BS in Computer Science, 2021-2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tech Company&lt;/strong&gt;, Intern, Summer 2023&lt;/li&gt;
+&lt;li&gt;Developed projects using Python.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown, Git, Pelican&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
